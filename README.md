@@ -1,6 +1,6 @@
 # UFOs
 ## Overview of Project
-The purpose of this analysis is to provide a more in-depth analysis of UFO sightings by allowing users to filter for multible criteria at the same time. In additon to the date, users can filter for the city, state, country, and shape as well.
+The purpose of this analysis is to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In additon to the date, users can filter for the city, state, country, and shape as well.
 
 ## Results
 ### 1. Welcome to UFO Sightings!
